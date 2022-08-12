@@ -14,8 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://bigota.d.miui.com/V11.0.1.0.NAMCNXM/miui_HM4X_V11.0.1.0.NAMCNXM_7e7448fe6d_7.1.zip
-  ROM_NAME: MIUI
+  ROM_URL: https://7vsmeltp5ffaln01j5rhsm57mg95rloa6rn4o7la6j41afolc6fvucg8.qc.x.bsgslb.cn:10443/xdispatchb7e0be7c75b146e3/bigota.d.miui.com/V11.0.1.0.NAMCNXM/miui_HM4X_V11.0.1.0.NAMCNXM_7e7448fe6d_7.1.zip?bsreqid=6e08ce52180f39e56a8c1e531b17f965
   BUILD_TYPE: Aonly
   TZ: Asia/Shanghai
 
